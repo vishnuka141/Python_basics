@@ -1,0 +1,6 @@
+s1=set()
+s1.add(3)
+s1.add(5)
+s1.add('hello')
+s1.add(True)
+print(s1)

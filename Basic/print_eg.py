@@ -1,0 +1,1 @@
+print('\n',5,'\nhello','\n',5.5,'\n', True)

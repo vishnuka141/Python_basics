@@ -1,0 +1,10 @@
+t=('a','p','p','l','e')
+print(max(t))
+print(min(t))
+print(t.count('p'))
+print(t.index('p'))#p is repeat so consider 1st p's index
+print(t.index('a'))
+print()
+n=(1,2,3)
+print(max(n))
+print(sum(n))

@@ -1,0 +1,5 @@
+f=open('new.txt','w')
+f.write('hello')
+f.write('\n')
+f.write('world')
+f.write('python')
